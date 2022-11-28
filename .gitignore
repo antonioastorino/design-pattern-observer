@@ -1,0 +1,7 @@
+*.swp
+build
+*.bak
+test/artifacts/*
+test/*.log
+Makefile
+.DS_Store
